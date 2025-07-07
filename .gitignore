@@ -1,3 +1,4 @@
 .env/
 content/
 logs/
+**/__pycache__/
