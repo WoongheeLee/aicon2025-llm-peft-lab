@@ -2,7 +2,7 @@
 
 PEFT(Parameter-Efficient Fine-Tuning) 기법을 활용한 LLM 미세조정 템플릿
 
-- [미세조정 템플릿 노트북](./notepad/llm-efficient-tune.ipynb)
+- [미세조정 템플릿 노트북](./notebooks/llm-efficient-tune.ipynb)
 
 ## 참고
 
